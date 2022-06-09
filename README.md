@@ -10,4 +10,5 @@ I took the existing code I was given made changes that make the website overall 
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/105948652/172963878-42045767-d2c5-4fda-bf14-90465ac561b4.png)
+![image](https://user-images.githubusercontent.com/105948652/172964104-79ab3ceb-e56d-4943-aec7-7ac825689423.png)
+
